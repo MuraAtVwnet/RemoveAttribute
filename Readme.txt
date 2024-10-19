@@ -44,6 +44,8 @@ git@github.com:MuraAtVwnet/RemoveAttribute.git
 
 
 ■ Web Page
+PowerShell で クリップボードの書式を削除してプレーンテキストにする
+https://www.vwnet.jp/Windows/PowerShell/2024101902/RemoveAttribute.htm
 
 
 ■ スクリプトインストール方法
